@@ -1,3 +1,4 @@
+#eitxmltv.py
 import sys
 import ConfigParser
 import eitreader
